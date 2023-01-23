@@ -43,5 +43,5 @@ endmodule
 ## TIMING DIAGRAM:
 ![](/RTL.png)
 ## RESULT:
-Thus,to design a 4 bit binary to BCD converter is implemented successfullly in Quartus using Verilog programming 
+Thus,to design a 4 bit binary to BCD converter is implemented successfullly in Quartus using Verilog programming.
 
